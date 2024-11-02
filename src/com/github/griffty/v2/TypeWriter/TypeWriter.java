@@ -1,4 +1,4 @@
-package v2.TypeWriter;
+package com.github.griffty.v2.TypeWriter;
 
 import java.util.ArrayList;
 import java.util.HashMap;

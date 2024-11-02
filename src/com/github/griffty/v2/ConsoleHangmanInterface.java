@@ -1,6 +1,6 @@
-package v2;
+package com.github.griffty.v2;
 
-import v2.TypeWriter.TypeWriter;
+import com.github.griffty.v2.TypeWriter.TypeWriter;
 
 import java.util.HashSet;
 import java.util.regex.Matcher;
@@ -12,7 +12,7 @@ public class ConsoleHangmanInterface implements IHangmanInterface {
     @Override
     public void start(int num){
         System.out.println("""
-                 ██░ ██  ▄▄▄       ███▄    █   ▄████  ███▄ ▄███▓ ▄▄▄       ███▄    █\s
+                ██░ ██  ▄▄▄       ███▄    █   ▄████  ███▄ ▄███▓ ▄▄▄       ███▄    █\s
                 ▓██░ ██▒▒████▄     ██ ▀█   █  ██▒ ▀█▒▓██▒▀█▀ ██▒▒████▄     ██ ▀█   █\s
                 ▒██▀▀██░▒██  ▀█▄  ▓██  ▀█ ██▒▒██░▄▄▄░▓██    ▓██░▒██  ▀█▄  ▓██  ▀█ ██▒
                 ░▓█ ░██ ░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█  ██▓▒██    ▒██ ░██▄▄▄▄██ ▓██▒  ▐▌██▒

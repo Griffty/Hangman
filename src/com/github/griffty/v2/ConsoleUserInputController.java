@@ -1,4 +1,4 @@
-package v2;
+package com.github.griffty.v2;
 
 import java.util.Scanner;
 import java.util.concurrent.CopyOnWriteArrayList;

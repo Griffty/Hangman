@@ -1,4 +1,4 @@
-package v2.TypeWriter;
+package com.github.griffty.v2.TypeWriter;
 
 public class TypeWriterResult {
     private volatile TypeWriterStatus status;
