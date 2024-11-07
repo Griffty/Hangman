@@ -1,6 +1,6 @@
 package com.github.griffty.v2;
 
-import com.github.griffty.v2.TypeWriter.TypeWriter;
+import com.github.griffty.v2.typewritter.TypeWriter;
 
 import java.util.HashSet;
 import java.util.regex.Matcher;

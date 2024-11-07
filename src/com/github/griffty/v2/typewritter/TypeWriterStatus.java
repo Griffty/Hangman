@@ -1,4 +1,4 @@
-package com.github.griffty.v2.TypeWriter;
+package com.github.griffty.v2.typewritter;
 
 public enum TypeWriterStatus {
     PROCESSING,
