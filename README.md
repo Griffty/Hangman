@@ -5,7 +5,7 @@
 </div>
 
 ## Introduction
-Hangman is well known game where you have to guess a word by guessing letters. This is just a practice project to experiment with typewriter effect in terminal and play around with different interface implementations that will be later used in [Connect Four project](https://github.com/yourusername/connect-four).
+Hangman is well known game where you have to guess a word by guessing letters. This is just a practice project to experiment with typewriter effect in terminal and play around with different interface implementations that will be later used in [Connect Four project](https://github.com/Griffty/ConnectFour).
 
 ## Usage
 To use the project you can simply download the source code and compile it. To change a speed of typewriter either use the method:
